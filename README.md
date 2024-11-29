@@ -1,10 +1,12 @@
 # Web Application project
 
+Group work with two persons.
+
 **IMPORTANT:**
 
-- Group work with two persons.
-- Every week at least one Commit/Push per team member. 
+- Regular commits are relevant to the grade for this and all other exercises. 
 - Commits also in every practical work hour.
+- It is a NO-GO to put the entire code of the exercise into a single commit.
 - **Start modelling with Plant UML.**
 
 ## What should be included:
