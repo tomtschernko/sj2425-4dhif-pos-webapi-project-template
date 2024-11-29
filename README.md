@@ -2,6 +2,8 @@
 
 Group work with two persons.
 
+Delivery date: 17.1.2025
+
 **IMPORTANT:**
 
 - Regular commits are relevant to the grade for this and all other exercises. 
@@ -10,7 +12,7 @@ Group work with two persons.
 - **Start modelling with Plant UML.**
 
 ## What should be included:
-- Plant UML.
+- Plant UML. Until 6.12.2024
 - Entities, at least 8.
 - Some *value types* and a little bit of inheritance ;-).
 - Generate test data with Bogus.
